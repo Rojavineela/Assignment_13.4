@@ -1,0 +1,56 @@
+{
+"title":"BASIC INFORMATION",
+"detail":"To excel in analytical and technical skills as well as meet or exceed the organizational goals."
+,
+"title1":"EDUCATION"
+,
+"university":
+[
+{"name":"IARE affiliated to Jawaharlal Nehru Technological University",
+ "place":"Hyderabad, Telangana",
+ "year":"2014",
+ "degree":"Bachelor's Degree in Civil Engineering"},
+ {"name":"STAADPRO development program",
+ "year":"Front End Web Development 2018"},
+ {"additional":"www.w3schools.com",
+ "other":"Web Design Concepts, PHP 5.6 & Problem Solving"}
+],
+
+
+ "title2":"PROFESSIONAL EXPERIENCE",
+ "employer": 
+[
+{"position":"Full-Time Employee",
+ "name":"HSBC",
+ "place":"HYD, India",
+ "year":"2016-Present",
+ "detail1":"Working as Customer Service Executive. Solving banking related customer's issues."},
+{"position":"Customer Service Executive",
+ "name":"Genpact",
+ "place":"HYD, India",
+ "year":"2015-2016",
+ "detail2":"To work on mails received from customers, here is a selection of duties to include: Resolving escalated mails, collectiing and collating team performance data."}
+],
+"last" : "CHIRUTALA",
+ "first": "ROJA VINEELA",
+ "position": "Business Associate",
+ "detail3" : "Systems analysts investigate and analyse business problems and then design information systems that provide a feasible solution.",
+ "title3" : "PERSONALITY HIGHLIGHTS",
+ "list":
+[
+{"first1" : "Enthusiastic",
+ "second" : "Responsible",
+ "third" : "Hard Working",
+ "fourth" : "Self Motivating",
+ "fifth":"Reliable",
+ "sixth":"Ready for challenges"}
+ ],
+ "contact":
+ [{"description" : "CONTACT DETAILS",
+ "street" : "Vasanthapuri Colony, Malkajgiri",
+ "city":"Hyderabad, Telangana",
+ "country":"India",
+ "email":"c.rojavineela@gmail.com",
+ "telephone":"+91-967-***-*462"}
+ ]
+}
